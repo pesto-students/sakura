@@ -32,3 +32,14 @@ Note: User and product related data is not stored in MVP build.
 ## Deployment
 Project would be hosted on Netlify
 
+## Cloning Project
+
+Use below command to clone project along with the submodules.
+```
+git clone --recursive https://github.com/pesto-students/sakura.git
+```
+To update the sub-modules to track latest codes use
+```
+git submodule update --init --recursive
+```
+
