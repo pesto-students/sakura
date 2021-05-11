@@ -1,0 +1,6 @@
+[submodule "sakura-frontend"]
+	path = sakura-frontend
+	url = https://github.com/pesto-students/sakura-frontend.git
+[submodule "sakura-backend"]
+	path = sakura-backend
+	url = https://github.com/pesto-students/sakura-backend.git
